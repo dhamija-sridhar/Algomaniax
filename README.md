@@ -1,2 +1,6 @@
 # Algomaniax
-Web-d for codig club of bits goa
+Web-d for coding club of bits goa
+
+
+Work to be done:-
+
